@@ -42,4 +42,28 @@
 
 ## 授权/限制/条件比对（扁平化）
 
-TODO
+Permissions
+
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+Limitations
+
+- Trademark use
+- Liability
+- Warranty
+
+Conditions
+
+- License and copyright notice
+- State changes
+- Disclose source
+- Same license
+- Same license (library)
+- Same license (file)
+- for source
+- Network use is
+
