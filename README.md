@@ -24,6 +24,8 @@
 
 ## License 比对
 
-![](./imgs/license.jpg)
+![](./imgs/license.png)
 
-> 图片过大，推荐「右键」`->`「在新标签页中打开图片」，详见《[license.xlsx](./docs/license.xlsx)》
+> 图片过大，推荐「右键」`->`「在新标签页中打开图片」
+
+源文档访问： 「[在线](https://docs.google.com/spreadsheets/d/1kreW5Xwxc3NWrXxaNgLzBD5qY29s0hdxTJ-IG_49ChA/edit?usp=sharing)」「[离线](./docs/license.xlsx)」
